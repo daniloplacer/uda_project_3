@@ -2,7 +2,7 @@
 
 
 <appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
-    android:initialLayout="@layout/widget_layout"
-    android:minHeight="@dimen/widget_default_height"
-    android:minWidth="@dimen/widget_default_width"
+    android:initialLayout="@layout/collection_widget"
+    android:minHeight="@dimen/collection_widget_default_height"
+    android:minWidth="@dimen/collection_widget_default_width"
     android:updatePeriodMillis="0" />

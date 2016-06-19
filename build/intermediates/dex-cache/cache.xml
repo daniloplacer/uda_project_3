@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="65620ba5e576dcec2c86efa440b00d042a27383b">
+        <dex dex="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.melnykov-floatingactionbutton-1.2.0_c57c42a6b28ad2f07662362f4f7ac18e888e64dd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/daniloplacer/.gradle/caches/modules-2/files-2.1/net.simonvt.schematic/schematic-annotations/0.6.3/4df5a4bbbacf9ea3c4aebf7d3c61465afb648e36/schematic-annotations-0.6.3.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4df5a4bbbacf9ea3c4aebf7d3c61465afb648e36">
+        <dex dex="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/schematic-annotations-0.6.3_9b18375a6dbd52849fc498acb87b4d2fdb9496a4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_435ee2c80ff54dda1f9f0d1c5c39ea67a604051e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="acd68eccd0c460d2760af2a81c1aed11ade7bb3f">
+        <dex dex="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_785a8f0e59bbaf3f51762f75d320d18674e1bdbf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/daniloplacer/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_4469d39273a718a0555a67d507ba25ebe7a2374d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.1_b7807010738044b14abbf0ace616edc8e9b7a7e0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.7/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a94e3ac390a37f149a235f7f5e1b49b65151c0bf">
+        <dex dex="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.afollestad.material-dialogs-core-0.8.5.7_80387f074e23f15dff72763020aa4e5617b13eab/classes.dex" />
+    </item>
+    <item
+        jar="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ca758dfe5ddf2782205479d207b5991d399ec3cf">
+        <dex dex="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_239fd4796dd43cebd91ef14a96441c4eda91dd7e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.1_5db3d0c6811edeb29d00c360cb5f8c77bb536374/classes.dex" />
+    </item>
+    <item
+        jar="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.2.1_67c0a45d494dd46b7211afe66b7396e12b5d4bf0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/exploded-aar/net.simonvt.schematic/schematic/0.6.3/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f6f5730f19d22f177096c8d134d4892b0fbd631d">
+        <dex dex="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/net.simonvt.schematic-schematic-0.6.3_805c065284bde82780c2bfc8467de00a715f8cf2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.1_5e9e9fe445e8b35cb8785ff6c911c8316fa6a348/classes.dex" />
+    </item>
+    <item
+        jar="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_340e95c04a427d1cfca1f2a8451755a30602324f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/exploded-aar/me.zhanghai.android.materialprogressbar/library/1.1.5/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4a9f97c742d058ca55948643c06f447895a9af76">
+        <dex dex="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/me.zhanghai.android.materialprogressbar-library-1.1.5_96f178f2ce5819604fd023749fa523501af095cb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_b61f88bd862bc0e7e582727f3c76fc99d0171867/classes.dex" />
+    </item>
+    <item
+        jar="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-measurement-8.4.0_b5bd0a86f84f1fce6d5884541697382f08e15012/classes.dex" />
+    </item>
+    <item
+        jar="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_5b83083e9e3d6ffe154071fc298645a54b512e0a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-8.4.0_8b388dcf4f40b76f64866295d5633bfa02126407/classes.dex" />
+    </item>
+    <item
+        jar="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.1_1d976f07dd73f37a8869407137a52f2f723b0566/classes.dex" />
+    </item>
+    <item
+        jar="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/exploded-aar/com.diogobernardino/williamchart/2.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1f159979917aba68421fb945854049367d206410">
+        <dex dex="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.diogobernardino-williamchart-2.2_3af3fe3887cdfc789dd0320a21b0684425ce3917/classes.dex" />
+    </item>
+    <item
+        jar="/Users/daniloplacer/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.5.0_d12a75f230978d3b18dbad367a3b05a6970d4761/classes.dex" />
+    </item>
+    <item
+        jar="/Users/daniloplacer/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_393d38757a43c03614f4fe4a383786ecb400f874/classes.dex" />
+    </item>
+    <item
+        jar="/Users/daniloplacer/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/daniloplacer/version-control/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_9041a2a8b758136a6cd903028569927d94f55da2/classes.dex" />
+    </item>
+
+</items>

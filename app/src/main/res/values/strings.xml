@@ -1,13 +1,58 @@
-<resources>
-  <string name="app_name">Stock Hawk</string>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
 
-  <string name="action_example">Example action</string>
+    <string name="app_name" translatable="false">Stock Hawk</string>
 
-  <string name="action_settings">Settings</string>
-  <string name="action_change_units">Change Units</string>
-  <string name="symbol_search">Symbol Search</string>
-  <string name="content_test">Search for a Stock Symbol</string>
-  <string name="input_hint">FB</string>
-  <string name="input_prefill"></string>
-  <string name="network_toast">Uh-oh! This app requires an internet connection</string>
+    <!-- MENU OPTIONS -->
+
+    <!-- Option shown when the user clicks to see more menu options -->
+    <string name="action_settings" translatable="true">Settings</string>
+    <!-- Title of the menu option/button to change units from $ to % -->
+    <!-- Not really visible due to item icon, but should be translated regardless -->
+    <string name="action_change_units" translatable="true">Change Units</string>
+
+    <!-- MATERIAL DIALOG TO SEARCH FOR NEW STOCKS -->
+
+    <!-- Title shown at the top the dialog -->
+    <string name="symbol_search_title" translatable="true">Symbol Search</string>
+    <!-- Description of the action to be taken, shown right below the title -->
+    <string name="symbol_search_description" translatable="true">Search for a Stock Symbol</string>
+    <!-- Text shown on the text input field as sample stock symbol -->
+    <string name="symbol_search_hint" translatable="false">FB</string>
+    <!-- This is the pre-fill in case the user doesn't enter anything. Blank at the moment. -->
+    <string name="symbol_search_prefill" translatable="false"></string>
+    <!-- Message shown as toast in case the stock is already saved -->
+    <string name="symbol_search_symbol_exists_toast" translatable="true">This stock is already saved!</string>
+    <!-- Message shown as toast in case the stock symbol could not be found -->
+    <string name="symbol_search_symbol_not_found_toast" translatable="true">Not able to retrieve information for stock symbol <xliff:g id="symbol" example="ABCDE">%s</xliff:g></string>
+
+    <!-- INTERNET CONNECTION TOASTS -->
+
+    <!-- Message shown as toast in case there's no internet connection when opening the app -->
+    <string name="update_network_toast" translatable="true">Not able to establish internet connection, quotes may be out of date</string>
+
+    <!-- Message shown as toast in case there's no internet connection when adding stock -->
+    <string name="add_network_toast" translatable="true">Not able to establish internet connection, not able to add stock</string>
+
+    <!-- Message shown as toast in case there's no internet connection when clicking to see historic stock info -->
+    <string name="details_network_toast" translatable="true">Not able to establish internet connection, not able to see stock details</string>
+
+    <!-- A11y - CONTENT DESCRIPTIONS FOR VIEWS WITHOUT VISIBLE TEXT -->
+
+    <!-- Floating action button to add new stock -->
+    <string name="a11_fab" translatable="true">Add new stock</string>
+
+    <!-- Content descriptions for the items shown on the RecyclerView -->
+    <string name="a11y_symbol" translatable="true">Stock symbol: <xliff:g id="symbol" example="GOOG">%s</xliff:g></string>
+    <string name="a11y_bid_price" translatable="true">Bid price: <xliff:g id="bid" example="732.33">%s</xliff:g></string>
+    <string name="a11y_change" translatable="true">Value change: <xliff:g id="change" example="+3.00">%s</xliff:g></string>
+    <string name="a11y_percent_change" translatable="true">Percentage change: <xliff:g id="percent_change" example="+3.00%">%s</xliff:g></string>
+
+    <!-- WIDGET -->
+    <string name="collection_widget_empty_list" translatable="false">Add stocks to your list</string>
+
+    <!-- DETAIL ACTIVITY -->
+
+    <!-- Text shown when the view is empty -->
+    <string name="details_empty_text" translatable="true">No internet connection.</string>
+
 </resources>
